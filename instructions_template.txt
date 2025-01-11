@@ -1,0 +1,22 @@
+<!--
+
+
+
+Widths:
+	none = generic 80% of screen width, no rounded corners.
+	thin = made for montors 800px wide screens and above, this is a cosy size.
+	thick = made for 1024px wide screens and above, this is a bit wide.
+
+Colour Schemes:
+	none = generic black-and white with blue links.
+	pink = bright pink style, high contrast.
+	pink2 = bright pink style, high contrast, and now easier on the eyes.
+	green = easy on the eyes, with no borders.
+	pale = light brown scheme.
+	light = light and airy blue scheme.
+	red = dark red dominates the screen.
+	blue = pretty good blue scheme, but a tad boxy.
+	blue2 = a better version of the blue scheme.
+	blue3 = I hope I have everything right this time.
+
+-->

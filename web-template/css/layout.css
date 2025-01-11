@@ -1,0 +1,255 @@
+/*
+ * Layout Styles
+ * Jason Cole (http://jason-cole.com)
+ * June 2007 - February 2008
+ */
+
+
+
+/*
+  3 1 layout
+*/
+.layout_3_1 #menu
+{
+ border-width: 0;
+ float: left;
+ width: 150px;
+}
+
+.layout_3_1 #extra
+{
+ border-width: 0;
+ float: right;
+ width: 150px;
+}
+
+.layout_3_1 #content
+{
+ border: solid #ccc;
+ border-width: 0 1px;
+ margin: 0 156px;
+ padding: 0 6px;
+}
+
+/*
+  3 2 layout
+*/
+.layout_3_2 #menu
+{
+ border-width: 0;
+ float: left;
+ margin-right: 6px;
+ width: 150px;
+}
+
+.layout_3_2 #extra
+{
+ border: solid #ccc;
+ border-width: 0 1px;
+ float: left;
+ padding: 0 6px;
+ width: 150px;
+}
+
+.layout_3_2 #content
+{
+ border-width: 0;
+ margin-left: 326px;
+}
+
+/*
+  3 3 layout
+*/
+.layout_3_3 #menu
+{
+ border-width: 0;
+ float: right;
+ margin-left: 6px;
+ width: 150px;
+}
+
+.layout_3_3 #extra
+{
+ border: solid #ccc;
+ border-width: 0 1px;
+ float: right;
+ padding: 0 6px;
+ width: 150px;
+}
+
+.layout_3_3 #content
+{
+ border-width: 0;
+ margin-right: 326px;
+}
+
+/*
+  2 1 layout
+*/
+.layout_2_1 #menu
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ float: left;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+ width: 150px;
+}
+
+.layout_2_1 #extra
+{
+ border-width: 0;
+ clear: both;
+ float: left;
+ width: 150px;
+}
+
+.layout_2_1 #content
+{
+ border: solid #ccc;
+ border-width: 0 0 0 1px;
+ margin-left: 156px;
+ padding-left: 6px;
+}
+
+/*
+  2 2 layout
+*/
+.layout_2_2 #menu
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ float: right;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+ width: 150px;
+}
+
+.layout_2_2 #extra
+{
+ border-width: 0;
+ clear: both;
+ float: right;
+ width: 150px;
+}
+
+.layout_2_2 #content
+{
+ border: solid #ccc;
+ border-width: 0 1px 0 0;
+ margin-right: 156px;
+ padding-right: 6px;
+}
+
+/*
+  2 3 layout
+*/
+.layout_2_3 #menu
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ float: left;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+ width: 250px;
+}
+
+.layout_2_3 #extra
+{
+ border-width: 0;
+ clear: both;
+ float: left;
+ width: 250px;
+}
+
+.layout_2_3 #content
+{
+ border: solid #ccc;
+ border-width: 0 0 0 1px;
+ margin-left: 256px;
+ padding-left: 6px;
+}
+
+/*
+  2 4 layout
+*/
+.layout_2_4 #menu
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ float: right;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+ width: 250px;
+}
+
+.layout_2_4 #extra
+{
+ border-width: 0;
+ clear: both;
+ float: right;
+ width: 250px;
+}
+
+.layout_2_4 #content
+{
+ border: solid #ccc;
+ border-width: 0 1px 0 0;
+ margin-right: 256px;
+ padding-right: 6px;
+}
+
+/*
+  1 1 layout
+*/
+.layout_1_1 #menu
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+}
+
+.layout_1_1 #extra
+{
+ border: solid #ccc;
+ border-width: 0 0 1px;
+ margin-bottom: 6px;
+ padding-bottom: 6px;
+}
+
+.layout_1_1 #content
+{
+ border-width: 0;
+}
+
+/*
+  1 2 layout
+*/
+.layout_1_2 #menu
+{
+ border: solid #ccc;
+ border-width:0 1px 0 0;
+ float: left;
+ margin: 0 6px 6px 0;
+ padding: 0 6px 0 0;
+ width: 150px;
+}
+
+.layout_1_2 #extra
+{
+ border: solid #ccc;
+ border-width: 0;
+ margin: 0 0 6px 163px;
+}
+
+.layout_1_2 #content
+{
+ border: solid #ccc;
+ border-width: 1px 0 0;
+ clear: both;
+ margin: 0;
+ padding: 6px 0 0;
+}
+
+
