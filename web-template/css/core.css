@@ -52,6 +52,7 @@ a:hover,a:active
  background-color: #fff;
  border: solid #ccc;
  border-width: 0px 1px 1px;
+ width: 100%;
 }
 #inner_container
 {
@@ -215,53 +216,3 @@ form,fieldset
  width: 100%;
 }
 
-/*
-   Special Classes
-*/
-
-.menu
-{
- list-style-type: none;
- margin: 0;
- padding: 0 0 0.5em;
-}
-.menu li
-{
- list-style-type: none;
- margin: 0;
- padding: 0;
-}
-.menu li ul
-{
- margin: 0.5em 0 0.5em 0.5em;
- padding: 0;
-}
-.menu li a,.menu li a:link,.menu li a:visited,.menu li a.current:hover,.menu li a.current:active
-{
- display: block;
- background-color: #f8f8f8;
- border-left: 0.2em solid #ddd;
- line-height: 1.8em;
- margin-top: 0.5em;
- padding: 0.5em;
- text-decoration:none;
-}
-.menu li a:hover,.menu li a:active,.menu li a.current,.menu li a.current:link,.menu li a.current:visited
-{
- background-color: #e8e8e8;
- border-left-color: #01f;
-}
-.menu li a.current:hover,.menu li a.current:active
-{
- background-color: #f8f8f8;
- border-left-color: #ddd;
-}
-
-.box
-{
- background-color: #f8f8f8;
- border-left: 0.2em solid #ddd;
- font-size: 100%;
- margin-bottom:0.5em;
- padding: 0.3em;
-}
