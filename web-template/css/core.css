@@ -21,6 +21,7 @@ body
 
 body
 {
+  scrollbar-gutter: stable; 
  background-color: #fff;
  color: #000;
  font-size: 90%;
@@ -44,18 +45,20 @@ a:hover,a:active
  color: #333;
  margin: 0 auto;
  text-align: left;
- width: 80%;
+ width: 90%;
+ margin: 0 auto;
 }
 
 #container
 {
  background-color: #fff;
  border: solid #ccc;
- border-width: 0px 1px 1px;
+ border-width: 0px 0px 0px;
  width: 100%;
 }
 #inner_container
 {
+ margin: 0 auto;
  border: 6px solid #fff;
 }
 
@@ -63,6 +66,7 @@ a:hover,a:active
 {
  background: #00f;
  color: #fff;
+ width: 100%;
 }
 #header h1
 {
@@ -131,6 +135,7 @@ a:hover,a:active
 {
  background: #00f;
  color: #fff;
+ width: 100%;
 }
 #footer p
 {
